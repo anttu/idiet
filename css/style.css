@@ -47,7 +47,9 @@ p {
   margin-bottom: 24px;
 }
 p.offset__1 {
-  margin-bottom: 31px;
+  //margin-bottom: 31px;
+  margin: 0 auto;
+  text-align: center;
 }
 input,
 textarea {
